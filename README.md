@@ -1,4 +1,5 @@
 Praktikum_Machine_Learning
+
 Dies ist die finale Abgabe meiner Gruppe für das Fachpraktikum Machine Learning an der FernUniversität in Hagen im Wintersemester 23/24.
 
 Die Aufgabe bestand darin, das Kartenspiel Hearts in Java zu implementieren und anschließend verschiedene KI-Gegenspieler zu entwickeln und zu vergleichen.
