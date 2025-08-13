@@ -1,0 +1,41 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HeartsMain",
+      "request": "launch",
+      "mainClass": "HeartsMain",
+      "projectName": "gruppe_kreuz_72bafc13"
+    },
+    {
+      "type": "java",
+      "name": "HeartsMain",
+      "request": "launch",
+      "mainClass": "HeartsMain",
+      "projectName": "gruppe_kreuz_16e2bc61"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "HeartsMain",
+      "request": "launch",
+      "mainClass": "HeartsMain",
+      "projectName": "gruppe_kreuz_3aa3b136",
+      "vmArgs": [
+        "--add-opens",
+        "java.base/java.lang=ALL-UNNAMED",
+        "--add-opens",
+        "java.base/java.util=ALL-UNNAMED"
+      ]
+    }
+  ]
+}

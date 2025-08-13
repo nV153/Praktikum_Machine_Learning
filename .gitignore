@@ -1,0 +1,27 @@
+# Kompilierte class-Dateien werden nicht mehr committet.
+*.class
+
+#Python-Bytecode wird nicht mehr committet.
+*.pyc
+
+# Eclipse Dateien werden nicht mehr committet
+.project
+.classpath
+
+#csv-Dateien nicht mehr committen.
+.csv
+
+passDataOfSimulation.csv
+payoff.ser
+playDataOfSimulation.csv
+config/id_ed25519_fpkreuz
+config/id_ed25519_fpkreuz.pub
+projecthearts/src/game/AI/AiCFR/Data/infoSetsPass.json
+projecthearts/src/game/AI/AiCFR/Data/infoSetsPlay.json
+putty_open
+putty_private_gruppekreuz.ppk
+projecthearts/id_ed25519_fpkreuz
+projecthearts/id_ed25519_fpkreuz.pub
+projecthearts/bin/game/AI/AiCFR/Data/newPassDataOfSim.csv
+projecthearts/bin/game/AI/AiCFR/Data/newPlayDataOfSim.csv
+

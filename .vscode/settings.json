@@ -1,0 +1,12 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "projecthearts/lib/commons-exec-1.3.jar",
+    "projecthearts/lib/encog-core-3.4.jar",
+    "projecthearts/lib/gson-2.10.1.jar",
+    "projecthearts/lib/hamcrest-core-1.3.jar",
+    "projecthearts/lib/junit-4.13.2.jar",
+    "projecthearts/lib/weka.jar"
+  ],
+  "java.project.outputPath": "projecthearts\\bin"
+}

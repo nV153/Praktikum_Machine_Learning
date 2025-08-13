@@ -1,0 +1,15 @@
+Mögliche Erweiterungen von ISMCTS:
+    - Problem 1: Strategy Fusion; Determinization ist zu statisch (update-problem)
+    - Lösung  1: SO-ISMCTS + (POM)
+    - Problem 2: Gegnerzüge/modell ist relativ Random
+    - Lölsung  2: MO-ISMCTS
+    
+    - weitere Bandit Algorithm außer UCB und UCT
+
+Implementierung von ähnlichen Algorthmen (Bisher keine Statisken welcher Algorthmus speziell auf Hearts am besten ist):
+    - Determinized UCB 
+    - Cheating UCT 
+    
+
+    
+    
